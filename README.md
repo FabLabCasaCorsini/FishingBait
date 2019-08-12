@@ -1,3 +1,3 @@
 # FishingBait
 
-<img src="https://github.com/FabLabCasaCorsini/FishingBait/blob/master/docs/images/img1.png" width=500>
+<img src="https://github.com/FabLabCasaCorsini/FishingBait/blob/master/docs/images/img1.png" width=700>
